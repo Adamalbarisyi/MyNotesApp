@@ -1,4 +1,4 @@
-package com.example.adamalbarisyi.mynotesapp.db;
+package com.example.raalsnoteapps;
 
 import android.database.Cursor;
 import android.net.Uri;
